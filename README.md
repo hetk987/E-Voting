@@ -17,6 +17,13 @@ The application provides a user-friendly interface that simplifies the voting pr
 ### 4. Persistent Storage with SQLite Databases
 The application utilizes SQLite databases for efficient and reliable data storage. This ensures that voting data is persistently stored, allowing administrators to access and analyze the results after the voting process has concluded.
 
+## Features Currently Being Worked On
+
+- **Forgot Password**: Allowing the user to reset their password by receiving a verification code to the number provided.
+- **Notification System**: Provide the user with real time notifications when a new candidate is winning and when the voting period has ended. 
+- **Dynamic Voting Options**: The application allows administrators to create and manage voting options dynamically. This feature enables the flexibility to configure various types of voting scenarios, such as multiple-choice, ranked-choice, or approval voting.
+
+
 ## Feedback and Support
 If you encounter any issues or have suggestions for improvements, please feel free to open an issue in the repository. I appreciate your feedback and will strive to address any concerns in a timely manner.
 
