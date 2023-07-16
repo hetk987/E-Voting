@@ -24,7 +24,7 @@ If you encounter any issues or have suggestions for improvements, please feel fr
 Contributions to the E-Voting Android Application are welcome! If you would like to contribute, please fork the repository and submit a pull request with your proposed changes. I value and appreciate your contributions to making this application even better.
 
 ## License
-This project is licensed under the [MIT License](LICENSE). Please see the LICENSE file for more details.
+This project is licensed under the [The Unlicense](LICENSE). Please see the LICENSE file for more details.
 
 ## Disclaimer
 This application is intended for demonstration and educational purposes only. It should not be used for actual elections or critical voting processes without appropriate security measures and legal compliance.
